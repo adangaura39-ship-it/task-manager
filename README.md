@@ -43,9 +43,9 @@ src/
 
 ## Screenshots
 
-| Desktop | Dark mode | Mobile |
-|---|---|---|
-| ![Desktop view](screenshots/desktop.png) | ![Dark mode](screenshots/dark.png) | ![Mobile view](screenshots/mobile.png) |
+| Desktop | Task lists | Dark mode | Mobile |
+|---|---|---|---|
+| ![Desktop view](screenshots/desktop.png) | ![Task lists](screenshots/list.png) | ![Dark mode](screenshots/darkMode.png) | ![Mobile view](screenshots/mobile.png) |
 
 ## Known limitations
 
